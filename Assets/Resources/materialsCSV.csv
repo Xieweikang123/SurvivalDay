@@ -1,0 +1,9 @@
+﻿ID,Name,Type,IconName,Describe
+001,萝卜,Food,radish,萝卜，加2点能量
+002,煤炭,Material,coal,煤炭：用于取暖。。
+003,木头,Material,wood,木头：。。
+004,火把,Torch,torch,火把：点亮世界
+005,木剑,Hand,Sword,木剑：除了驱赶僵尸还能干什么
+006,木稿,Hand,pick,木稿：用于挖矿
+007,石头,Stone,brokenStone,石块
+008,锄头,Tool,hoe,锄头：用来开垦荒地
