@@ -17,6 +17,7 @@ public class CSVReadData : MonoBehaviour {
         TextAsset txtCSV = Resources.Load("materialsCSV") as TextAsset;
         string[] lines = txtCSV.ToString().Split('\n');
 
+
         for(int i = 1; i < lines.Length; i++)
         {
             //得到一行中的每一项
