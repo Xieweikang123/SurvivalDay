@@ -1,0 +1,2533 @@
+fileFormatVersion: 2
+guid: be1f8290fa41ade47844bf6ef23ef5e5
+timeCreated: 1532074125
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spinnen_0
+    21300002: spinnen_1
+    21300004: spinnen_2
+    21300006: spinnen_3
+    21300008: spinnen_4
+    21300010: spinnen_5
+    21300012: spinnen_6
+    21300014: spinnen_7
+    21300016: spinnen_8
+    21300018: spinnen_9
+    21300020: spinnen_10
+    21300022: spinnen_11
+    21300024: spinnen_12
+    21300026: spinnen_13
+    21300028: spinnen_14
+    21300030: spinnen_15
+    21300032: spinnen_16
+    21300034: spinnen_17
+    21300036: spinnen_18
+    21300038: spinnen_19
+    21300040: spinnen_20
+    21300042: spinnen_21
+    21300044: spinnen_22
+    21300046: spinnen_23
+    21300048: spinnen_24
+    21300050: spinnen_25
+    21300052: spinnen_26
+    21300054: spinnen_27
+    21300056: spinnen_28
+    21300058: spinnen_29
+    21300060: spinnen_30
+    21300062: spinnen_31
+    21300064: spinnen_32
+    21300066: spinnen_33
+    21300068: spinnen_34
+    21300070: spinnen_35
+    21300072: spinnen_36
+    21300074: spinnen_37
+    21300076: spinnen_38
+    21300078: spinnen_39
+    21300080: spinnen_40
+    21300082: spinnen_41
+    21300084: spinnen_42
+    21300086: spinnen_43
+    21300088: spinnen_44
+    21300090: spinnen_45
+    21300092: spinnen_46
+    21300094: spinnen_47
+    21300096: spinnen_48
+    21300098: spinnen_49
+    21300100: spinnen_50
+    21300102: spinnen_51
+    21300104: spinnen_52
+    21300106: spinnen_53
+    21300108: spinnen_54
+    21300110: spinnen_55
+    21300112: spinnen_56
+    21300114: spinnen_57
+    21300116: spinnen_58
+    21300118: spinnen_59
+    21300120: spinnen_60
+    21300122: spinnen_61
+    21300124: spinnen_62
+    21300126: spinnen_63
+    21300128: spinnen_64
+    21300130: spinnen_65
+    21300132: spinnen_66
+    21300134: spinnen_67
+    21300136: spinnen_68
+    21300138: spinnen_69
+    21300140: spinnen_70
+    21300142: spinnen_71
+    21300144: spinnen_72
+    21300146: spinnen_73
+    21300148: spinnen_74
+    21300150: spinnen_75
+    21300152: spinnen_76
+    21300154: spinnen_77
+    21300156: spinnen_78
+    21300158: spinnen_79
+    21300160: spinnen_80
+    21300162: spinnen_81
+    21300164: spinnen_82
+    21300166: spinnen_83
+    21300168: spinnen_84
+    21300170: spinnen_85
+    21300172: spinnen_86
+    21300174: spinnen_87
+    21300176: spinnen_88
+    21300178: spinnen_89
+    21300180: spinnen_90
+    21300182: spinnen_91
+    21300184: spinnen_92
+    21300186: spinnen_93
+    21300188: spinnen_94
+    21300190: spinnen_95
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spinnen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spinnen_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -153, y: -89}
+      - {x: -127, y: -15}
+      - {x: -126, y: -11}
+      - {x: -126, y: -13}
+      - {x: -122, y: -25}
+      - {x: -103, y: -23}
+      - {x: -99, y: -17}
+      - {x: -99, y: -14}
+      - {x: -97, y: -45}
+      - {x: -109, y: -108}
+      - {x: -91, y: -128}
+      - {x: -38, y: -128}
+      - {x: -29, y: -118}
+      - {x: -28, y: -109}
+      - {x: -40, y: -85}
+      - {x: -53, y: -84}
+      - {x: -59, y: -88}
+      - {x: -65, y: -38}
+      - {x: -68, y: -24}
+      - {x: -52, y: -23}
+      - {x: -45, y: -21}
+      - {x: -30, y: -16}
+      - {x: -29, y: -11}
+      - {x: -37, y: -3}
+      - {x: -27, y: 1}
+      - {x: -30, y: -18}
+      - {x: -25, y: -23}
+      - {x: -13, y: -25}
+      - {x: -1, y: -18}
+      - {x: -3, y: -14}
+      - {x: -5, y: -9}
+      - {x: 3, y: -21}
+      - {x: -44, y: -72}
+      - {x: -3, y: -128}
+      - {x: 65, y: -128}
+      - {x: 70, y: -114}
+      - {x: 56, y: -84}
+      - {x: 43, y: -84}
+      - {x: 67, y: -10}
+      - {x: 59, y: -3}
+      - {x: 68, y: -9}
+      - {x: 66, y: -18}
+      - {x: 85, y: -39}
+      - {x: 98, y: -14}
+      - {x: 98, y: 27}
+      - {x: 94, y: 30}
+      - {x: 91, y: 29}
+      - {x: 94, y: 30}
+      - {x: 98, y: 33}
+      - {x: 98, y: 53}
+      - {x: 94, y: 60}
+      - {x: -192, y: 60}
+      - {x: -192, y: -128}
+      - {x: -129, y: -128}
+      - {x: -124, y: -113}
+      - {x: -131, y: -86}
+      - {x: -150, y: -82}
+    - - {x: -138, y: -117}
+      - {x: -151, y: -117}
+      - {x: -153, y: -121}
+      - {x: -153, y: -126}
+      - {x: -151, y: -128}
+      - {x: -137, y: -128}
+      - {x: -135, y: -126}
+      - {x: -135, y: -118}
+    - - {x: -117, y: -86}
+      - {x: -122, y: -89}
+      - {x: -123, y: -98}
+      - {x: -123, y: -123}
+      - {x: -121, y: -128}
+      - {x: -101, y: -128}
+      - {x: -101, y: -86}
+    - - {x: -23, y: -86}
+      - {x: -26, y: -89}
+      - {x: -27, y: -95}
+      - {x: -27, y: -118}
+      - {x: -24, y: -126}
+      - {x: -22, y: -128}
+      - {x: -5, y: -128}
+      - {x: -5, y: -86}
+    - - {x: 89, y: -89}
+      - {x: 86, y: -86}
+      - {x: 77, y: -86}
+      - {x: 69, y: -88}
+      - {x: 69, y: -128}
+      - {x: 88, y: -128}
+      - {x: 89, y: -127}
+      - {x: 91, y: -121}
+      - {x: 91, y: -98}
+    - - {x: 101, y: -128}
+      - {x: 123, y: -128}
+      - {x: 123, y: -119}
+      - {x: 121, y: -116}
+      - {x: 102, y: -116}
+      - {x: 101, y: -119}
+    - - {x: 140, y: -117}
+      - {x: 135, y: -121}
+      - {x: 135, y: -126}
+      - {x: 137, y: -128}
+      - {x: 153, y: -128}
+      - {x: 153, y: -121}
+      - {x: 152, y: -117}
+    - - {x: 168, y: -128}
+      - {x: 184, y: -128}
+      - {x: 184, y: -120}
+      - {x: 183, y: -118}
+      - {x: 171, y: -118}
+      - {x: 168, y: -120}
+    - - {x: 167, y: -86}
+      - {x: 166, y: -87}
+      - {x: 166, y: -115}
+      - {x: 187, y: -115}
+      - {x: 187, y: -87}
+      - {x: 182, y: -86}
+    - - {x: 103, y: -84}
+      - {x: 96, y: -95}
+      - {x: 96, y: -104}
+      - {x: 106, y: -113}
+      - {x: 118, y: -113}
+      - {x: 129, y: -104}
+      - {x: 129, y: -96}
+      - {x: 123, y: -89}
+      - {x: 118, y: -84}
+    - - {x: 138, y: -85}
+      - {x: 132, y: -87}
+      - {x: 131, y: -98}
+      - {x: 131, y: -110}
+      - {x: 139, y: -112}
+      - {x: 152, y: -112}
+      - {x: 157, y: -111}
+      - {x: 158, y: -109}
+      - {x: 158, y: -99}
+      - {x: 152, y: -85}
+    - - {x: -124, y: -64}
+      - {x: -124, y: -81}
+      - {x: -115, y: -87}
+      - {x: -99, y: -87}
+      - {x: -99, y: -61}
+      - {x: -100, y: -54}
+      - {x: -118, y: -54}
+      - {x: -120, y: -58}
+    - - {x: -7, y: -54}
+      - {x: -23, y: -54}
+      - {x: -28, y: -63}
+      - {x: -28, y: -80}
+      - {x: -15, y: -87}
+      - {x: -5, y: -87}
+      - {x: -3, y: -82}
+      - {x: -3, y: -59}
+      - {x: -4, y: -55}
+    - - {x: 77, y: -54}
+      - {x: 70, y: -57}
+      - {x: 73, y: -66}
+      - {x: 68, y: -77}
+      - {x: 68, y: -80}
+      - {x: 71, y: -86}
+      - {x: 78, y: -87}
+      - {x: 93, y: -87}
+      - {x: 93, y: -54}
+    - - {x: -136, y: -53}
+      - {x: -148, y: -53}
+      - {x: -153, y: -57}
+      - {x: -159, y: -66}
+      - {x: -159, y: -82}
+      - {x: -154, y: -84}
+      - {x: -141, y: -84}
+      - {x: -130, y: -76}
+      - {x: -130, y: -70}
+      - {x: -131, y: -67}
+    - - {x: -40, y: -53}
+      - {x: -54, y: -53}
+      - {x: -59, y: -55}
+      - {x: -64, y: -69}
+      - {x: -64, y: -76}
+      - {x: -56, y: -84}
+      - {x: -49, y: -84}
+      - {x: -34, y: -77}
+      - {x: -34, y: -67}
+      - {x: -37, y: -55}
+    - - {x: 56, y: -53}
+      - {x: 42, y: -53}
+      - {x: 37, y: -55}
+      - {x: 32, y: -69}
+      - {x: 32, y: -76}
+      - {x: 40, y: -84}
+      - {x: 47, y: -84}
+      - {x: 62, y: -77}
+      - {x: 62, y: -67}
+      - {x: 59, y: -55}
+    - - {x: 168, y: -54}
+      - {x: 168, y: -77}
+      - {x: 172, y: -83}
+      - {x: 180, y: -83}
+      - {x: 185, y: -81}
+      - {x: 185, y: -56}
+      - {x: 179, y: -54}
+    - - {x: 118, y: -52}
+      - {x: 103, y: -52}
+      - {x: 98, y: -63}
+      - {x: 98, y: -72}
+      - {x: 108, y: -82}
+      - {x: 115, y: -82}
+      - {x: 122, y: -74}
+      - {x: 123, y: -65}
+      - {x: 123, y: -56}
+    - - {x: 151, y: -53}
+      - {x: 137, y: -53}
+      - {x: 131, y: -54}
+      - {x: 131, y: -75}
+      - {x: 141, y: -81}
+      - {x: 147, y: -81}
+      - {x: 153, y: -74}
+      - {x: 153, y: -57}
+    - - {x: -125, y: -22}
+      - {x: -125, y: -55}
+      - {x: -113, y: -55}
+      - {x: -100, y: -48}
+      - {x: -100, y: -24}
+      - {x: -107, y: -22}
+    - - {x: -24, y: -22}
+      - {x: -29, y: -31}
+      - {x: -29, y: -51}
+      - {x: -26, y: -55}
+      - {x: -4, y: -55}
+      - {x: -4, y: -22}
+    - - {x: 72, y: -22}
+      - {x: 67, y: -32}
+      - {x: 67, y: -50}
+      - {x: 70, y: -55}
+      - {x: 92, y: -55}
+      - {x: 92, y: -22}
+    - - {x: -154, y: -21}
+      - {x: -157, y: -22}
+      - {x: -158, y: -27}
+      - {x: -158, y: -50}
+      - {x: -146, y: -52}
+      - {x: -132, y: -52}
+      - {x: -129, y: -50}
+      - {x: -129, y: -21}
+    - - {x: -52, y: -21}
+      - {x: -60, y: -22}
+      - {x: -62, y: -33}
+      - {x: -62, y: -47}
+      - {x: -46, y: -52}
+      - {x: -37, y: -52}
+      - {x: -32, y: -45}
+      - {x: -32, y: -38}
+      - {x: -38, y: -21}
+    - - {x: 44, y: -21}
+      - {x: 36, y: -22}
+      - {x: 34, y: -33}
+      - {x: 34, y: -43}
+      - {x: 35, y: -45}
+      - {x: 49, y: -52}
+      - {x: 60, y: -52}
+      - {x: 64, y: -46}
+      - {x: 64, y: -29}
+      - {x: 58, y: -21}
+    - - {x: 173, y: -22}
+      - {x: 167, y: -24}
+      - {x: 167, y: -47}
+      - {x: 174, y: -51}
+      - {x: 179, y: -51}
+      - {x: 184, y: -45}
+      - {x: 184, y: -22}
+    - - {x: 103, y: -20}
+      - {x: 101, y: -24}
+      - {x: 101, y: -39}
+      - {x: 105, y: -50}
+      - {x: 116, y: -50}
+      - {x: 126, y: -45}
+      - {x: 126, y: -29}
+      - {x: 121, y: -20}
+    - - {x: 140, y: -21}
+      - {x: 135, y: -22}
+      - {x: 135, y: -45}
+      - {x: 142, y: -49}
+      - {x: 157, y: -49}
+      - {x: 157, y: -21}
+    - - {x: 162, y: 128}
+      - {x: 162, y: 0}
+      - {x: 163, y: -18}
+      - {x: 188, y: -18}
+      - {x: 188, y: 126}
+      - {x: 185, y: 128}
+    - - {x: 120, y: 128}
+      - {x: 107, y: 128}
+      - {x: 97, y: 122}
+      - {x: 96, y: 88}
+      - {x: 96, y: -9}
+      - {x: 108, y: -17}
+      - {x: 129, y: -17}
+      - {x: 129, y: 84}
+      - {x: 124, y: 124}
+    - - {x: 153, y: 128}
+      - {x: 135, y: 128}
+      - {x: 130, y: 125}
+      - {x: 130, y: -16}
+      - {x: 159, y: -16}
+      - {x: 159, y: 64}
+      - {x: 156, y: 122}
+    - - {x: -185, y: 92}
+      - {x: -192, y: 88}
+      - {x: -192, y: 63}
+      - {x: -190, y: 62}
+      - {x: 92, y: 62}
+      - {x: 98, y: 63}
+      - {x: 98, y: 91}
+      - {x: 97, y: 92}
+    - - {x: 91, y: 128}
+      - {x: -190, y: 128}
+      - {x: -192, y: 124}
+      - {x: -192, y: 97}
+      - {x: -187, y: 94}
+      - {x: 94, y: 94}
+      - {x: 97, y: 100}
+      - {x: 97, y: 126}
+    physicsShape:
+    - - {x: -115, y: -95}
+      - {x: -119, y: -97}
+      - {x: -123, y: -111}
+      - {x: -123, y: -116}
+      - {x: -120, y: -120}
+      - {x: -104, y: -120}
+      - {x: -101, y: -115}
+      - {x: -101, y: -108}
+      - {x: -107, y: -95}
+    - - {x: -19, y: -94}
+      - {x: -23, y: -96}
+      - {x: -27, y: -103}
+      - {x: -27, y: -120}
+      - {x: -8, y: -120}
+      - {x: -5, y: -119}
+      - {x: -5, y: -107}
+      - {x: -12, y: -94}
+    - - {x: 83, y: -94}
+      - {x: 76, y: -94}
+      - {x: 70, y: -107}
+      - {x: 69, y: -110}
+      - {x: 69, y: -116}
+      - {x: 73, y: -120}
+      - {x: 89, y: -120}
+      - {x: 91, y: -119}
+      - {x: 91, y: -104}
+      - {x: 86, y: -95}
+    - - {x: -33, y: -115}
+      - {x: -30, y: -113}
+      - {x: -30, y: -108}
+      - {x: -32, y: -100}
+      - {x: -42, y: -94}
+      - {x: -91, y: -94}
+      - {x: -98, y: -99}
+      - {x: -98, y: -107}
+      - {x: -96, y: -109}
+      - {x: -84, y: -119}
+      - {x: -70, y: -119}
+      - {x: -60, y: -117}
+      - {x: -47, y: -119}
+      - {x: -45, y: -119}
+    - - {x: 64, y: -116}
+      - {x: 66, y: -112}
+      - {x: 66, y: -107}
+      - {x: 59, y: -97}
+      - {x: 54, y: -94}
+      - {x: 47, y: -94}
+      - {x: 43, y: -96}
+      - {x: 27, y: -94}
+      - {x: 5, y: -94}
+      - {x: -2, y: -100}
+      - {x: -2, y: -108}
+      - {x: 12, y: -119}
+      - {x: 26, y: -119}
+      - {x: 36, y: -117}
+      - {x: 49, y: -119}
+      - {x: 52, y: -119}
+    - - {x: -145, y: -118}
+      - {x: -138, y: -118}
+      - {x: -129, y: -115}
+      - {x: -126, y: -112}
+      - {x: -126, y: -110}
+      - {x: -130, y: -101}
+      - {x: -141, y: -94}
+      - {x: -156, y: -97}
+      - {x: -161, y: -97}
+      - {x: -168, y: -94}
+      - {x: -186, y: -94}
+      - {x: -192, y: -98}
+      - {x: -192, y: -110}
+      - {x: -182, y: -118}
+      - {x: -173, y: -118}
+      - {x: -169, y: -116}
+      - {x: -168, y: -111}
+      - {x: -160, y: -116}
+    - - {x: 166, y: -115}
+      - {x: 187, y: -115}
+      - {x: 187, y: -101}
+      - {x: 185, y: -94}
+      - {x: 171, y: -94}
+      - {x: 166, y: -103}
+    - - {x: 97, y: -96}
+      - {x: 96, y: -99}
+      - {x: 96, y: -103}
+      - {x: 101, y: -113}
+      - {x: 125, y: -113}
+      - {x: 129, y: -103}
+      - {x: 129, y: -99}
+      - {x: 128, y: -96}
+    - - {x: 147, y: -95}
+      - {x: 134, y: -95}
+      - {x: 131, y: -103}
+      - {x: 131, y: -111}
+      - {x: 136, y: -112}
+      - {x: 152, y: -112}
+      - {x: 157, y: -111}
+      - {x: 158, y: -108}
+      - {x: 158, y: -103}
+      - {x: 153, y: -97}
+    - - {x: -110, y: -63}
+      - {x: -121, y: -68}
+      - {x: -124, y: -74}
+      - {x: -124, y: -81}
+      - {x: -112, y: -87}
+      - {x: -102, y: -87}
+      - {x: -99, y: -85}
+      - {x: -99, y: -68}
+      - {x: -101, y: -63}
+    - - {x: -13, y: -62}
+      - {x: -28, y: -76}
+      - {x: -28, y: -80}
+      - {x: -19, y: -87}
+      - {x: -3, y: -87}
+      - {x: -3, y: -66}
+      - {x: -8, y: -62}
+    - - {x: 88, y: -62}
+      - {x: 83, y: -62}
+      - {x: 68, y: -76}
+      - {x: 68, y: -81}
+      - {x: 81, y: -87}
+      - {x: 92, y: -87}
+      - {x: 93, y: -85}
+      - {x: 93, y: -66}
+    - - {x: -183, y: -63}
+      - {x: -190, y: -69}
+      - {x: -190, y: -75}
+      - {x: -189, y: -81}
+      - {x: -183, y: -86}
+      - {x: -175, y: -86}
+      - {x: -161, y: -79}
+      - {x: -161, y: -67}
+      - {x: -172, y: -63}
+    - - {x: -70, y: -62}
+      - {x: -87, y: -62}
+      - {x: -94, y: -66}
+      - {x: -94, y: -82}
+      - {x: -86, y: -86}
+      - {x: -77, y: -86}
+      - {x: -65, y: -78}
+      - {x: -65, y: -72}
+      - {x: -69, y: -65}
+    - - {x: 6, y: -86}
+      - {x: 17, y: -86}
+      - {x: 31, y: -79}
+      - {x: 31, y: -65}
+      - {x: 30, y: -62}
+      - {x: 2, y: -62}
+      - {x: 2, y: -84}
+    - - {x: -131, y: -64}
+      - {x: -149, y: -64}
+      - {x: -159, y: -66}
+      - {x: -159, y: -80}
+      - {x: -152, y: -84}
+      - {x: -140, y: -84}
+      - {x: -131, y: -77}
+      - {x: -130, y: -74}
+      - {x: -130, y: -69}
+    - - {x: -64, y: -78}
+      - {x: -59, y: -84}
+      - {x: -49, y: -84}
+      - {x: -34, y: -78}
+      - {x: -34, y: -66}
+      - {x: -35, y: -63}
+      - {x: -54, y: -63}
+      - {x: -61, y: -64}
+      - {x: -64, y: -69}
+    - - {x: 44, y: -63}
+      - {x: 32, y: -68}
+      - {x: 32, y: -74}
+      - {x: 33, y: -82}
+      - {x: 40, y: -84}
+      - {x: 50, y: -84}
+      - {x: 62, y: -76}
+      - {x: 62, y: -71}
+      - {x: 59, y: -63}
+    - - {x: 173, y: -62}
+      - {x: 169, y: -69}
+      - {x: 169, y: -80}
+      - {x: 171, y: -83}
+      - {x: 180, y: -83}
+      - {x: 185, y: -81}
+      - {x: 185, y: -66}
+      - {x: 180, y: -62}
+    - - {x: 100, y: -64}
+      - {x: 98, y: -67}
+      - {x: 98, y: -71}
+      - {x: 106, y: -81}
+      - {x: 110, y: -82}
+      - {x: 116, y: -82}
+      - {x: 121, y: -77}
+      - {x: 121, y: -69}
+      - {x: 118, y: -64}
+    - - {x: 151, y: -63}
+      - {x: 140, y: -63}
+      - {x: 131, y: -66}
+      - {x: 131, y: -76}
+      - {x: 141, y: -81}
+      - {x: 150, y: -81}
+      - {x: 153, y: -75}
+      - {x: 153, y: -68}
+    - - {x: -122, y: -31}
+      - {x: -125, y: -33}
+      - {x: -125, y: -54}
+      - {x: -123, y: -55}
+      - {x: -113, y: -55}
+      - {x: -100, y: -47}
+      - {x: -100, y: -42}
+      - {x: -110, y: -31}
+    - - {x: -24, y: -30}
+      - {x: -29, y: -32}
+      - {x: -29, y: -55}
+      - {x: -16, y: -55}
+      - {x: -4, y: -49}
+      - {x: -4, y: -44}
+      - {x: -17, y: -30}
+    - - {x: 72, y: -30}
+      - {x: 67, y: -32}
+      - {x: 67, y: -55}
+      - {x: 80, y: -55}
+      - {x: 92, y: -49}
+      - {x: 92, y: -44}
+      - {x: 77, y: -30}
+    - - {x: -180, y: -31}
+      - {x: -191, y: -35}
+      - {x: -191, y: -46}
+      - {x: -176, y: -54}
+      - {x: -164, y: -54}
+      - {x: -162, y: -48}
+      - {x: -162, y: -33}
+      - {x: -166, y: -31}
+    - - {x: -84, y: -30}
+      - {x: -95, y: -35}
+      - {x: -95, y: -46}
+      - {x: -81, y: -54}
+      - {x: -76, y: -54}
+      - {x: -66, y: -50}
+      - {x: -66, y: -37}
+      - {x: -74, y: -30}
+    - - {x: 12, y: -30}
+      - {x: 4, y: -32}
+      - {x: 1, y: -36}
+      - {x: 1, y: -47}
+      - {x: 9, y: -54}
+      - {x: 25, y: -54}
+      - {x: 30, y: -50}
+      - {x: 30, y: -36}
+      - {x: 22, y: -30}
+    - - {x: -155, y: -32}
+      - {x: -158, y: -37}
+      - {x: -158, y: -43}
+      - {x: -157, y: -45}
+      - {x: -142, y: -52}
+      - {x: -137, y: -51}
+      - {x: -129, y: -45}
+      - {x: -129, y: -33}
+      - {x: -140, y: -32}
+    - - {x: -61, y: -31}
+      - {x: -62, y: -35}
+      - {x: -62, y: -43}
+      - {x: -61, y: -45}
+      - {x: -51, y: -52}
+      - {x: -42, y: -52}
+      - {x: -32, y: -46}
+      - {x: -32, y: -32}
+      - {x: -39, y: -31}
+    - - {x: 34, y: -34}
+      - {x: 34, y: -45}
+      - {x: 41, y: -52}
+      - {x: 58, y: -52}
+      - {x: 64, y: -46}
+      - {x: 64, y: -38}
+      - {x: 62, y: -35}
+      - {x: 52, y: -31}
+      - {x: 38, y: -31}
+    - - {x: 178, y: -33}
+      - {x: 175, y: -30}
+      - {x: 172, y: -30}
+      - {x: 167, y: -34}
+      - {x: 167, y: -47}
+      - {x: 175, y: -51}
+      - {x: 178, y: -51}
+      - {x: 183, y: -44}
+      - {x: 183, y: -39}
+    - - {x: 105, y: -32}
+      - {x: 103, y: -37}
+      - {x: 103, y: -47}
+      - {x: 105, y: -50}
+      - {x: 117, y: -50}
+      - {x: 126, y: -46}
+      - {x: 126, y: -33}
+      - {x: 122, y: -32}
+    - - {x: 149, y: -32}
+      - {x: 143, y: -31}
+      - {x: 138, y: -31}
+      - {x: 135, y: -33}
+      - {x: 135, y: -40}
+      - {x: 139, y: -49}
+      - {x: 146, y: -49}
+      - {x: 156, y: -44}
+      - {x: 157, y: -42}
+      - {x: 157, y: -37}
+    - - {x: -129, y: -17}
+      - {x: -127, y: -15}
+      - {x: -126, y: -11}
+      - {x: -134, y: -1}
+      - {x: -128, y: 2}
+      - {x: -117, y: -4}
+      - {x: -126, y: -13}
+      - {x: -123, y: -22}
+      - {x: -102, y: -22}
+      - {x: -99, y: -17}
+      - {x: -99, y: -14}
+      - {x: -100, y: -2}
+      - {x: -99, y: -12}
+      - {x: -83, y: -22}
+      - {x: -76, y: -22}
+      - {x: -72, y: -16}
+      - {x: -54, y: -22}
+      - {x: -49, y: -22}
+      - {x: -45, y: -21}
+      - {x: -30, y: -16}
+      - {x: -29, y: -11}
+      - {x: -37, y: -3}
+      - {x: -27, y: 1}
+      - {x: -28, y: -9}
+      - {x: -30, y: -18}
+      - {x: -26, y: -22}
+      - {x: -8, y: -22}
+      - {x: -2, y: -18}
+      - {x: -4, y: -9}
+      - {x: -3, y: -12}
+      - {x: 13, y: -22}
+      - {x: 20, y: -22}
+      - {x: 24, y: -16}
+      - {x: 40, y: -22}
+      - {x: 49, y: -22}
+      - {x: 63, y: -18}
+      - {x: 67, y: -10}
+      - {x: 59, y: -3}
+      - {x: 69, y: 1}
+      - {x: 68, y: -9}
+      - {x: 66, y: -18}
+      - {x: 70, y: -22}
+      - {x: 88, y: -22}
+      - {x: 95, y: -18}
+      - {x: 92, y: -1}
+      - {x: 97, y: 6}
+      - {x: 98, y: 16}
+      - {x: 97, y: 26}
+      - {x: 94, y: 30}
+      - {x: 91, y: 29}
+      - {x: 94, y: 30}
+      - {x: 97, y: 33}
+      - {x: 98, y: 35}
+      - {x: 98, y: 49}
+      - {x: 97, y: 54}
+      - {x: 85, y: 60}
+      - {x: 73, y: 60}
+      - {x: 67, y: 59}
+      - {x: 63, y: 55}
+      - {x: 54, y: 60}
+      - {x: -23, y: 60}
+      - {x: -29, y: 59}
+      - {x: -33, y: 55}
+      - {x: -42, y: 60}
+      - {x: -59, y: 60}
+      - {x: -66, y: 58}
+      - {x: -76, y: 60}
+      - {x: -119, y: 60}
+      - {x: -125, y: 59}
+      - {x: -129, y: 55}
+      - {x: -138, y: 60}
+      - {x: -189, y: 60}
+      - {x: -192, y: 57}
+      - {x: -192, y: 3}
+      - {x: -191, y: 1}
+      - {x: -192, y: -2}
+      - {x: -192, y: -15}
+      - {x: -182, y: -22}
+      - {x: -170, y: -22}
+      - {x: -158, y: -17}
+      - {x: -151, y: -22}
+      - {x: -143, y: -22}
+    - - {x: 188, y: 0}
+      - {x: 188, y: 122}
+      - {x: 183, y: 128}
+      - {x: 167, y: 128}
+      - {x: 164, y: 125}
+      - {x: 162, y: 119}
+      - {x: 162, y: 111}
+      - {x: 166, y: 98}
+      - {x: 162, y: 90}
+      - {x: 162, y: 82}
+      - {x: 165, y: 65}
+      - {x: 162, y: 58}
+      - {x: 162, y: 50}
+      - {x: 165, y: 34}
+      - {x: 162, y: 27}
+      - {x: 162, y: 15}
+      - {x: 164, y: 1}
+      - {x: 164, y: -9}
+      - {x: 166, y: -18}
+      - {x: 171, y: -18}
+      - {x: 177, y: -15}
+      - {x: 184, y: -18}
+      - {x: 187, y: -17}
+      - {x: 187, y: -10}
+    - - {x: 124, y: 22}
+      - {x: 123, y: 33}
+      - {x: 125, y: 54}
+      - {x: 123, y: 65}
+      - {x: 125, y: 86}
+      - {x: 123, y: 97}
+      - {x: 125, y: 106}
+      - {x: 123, y: 124}
+      - {x: 117, y: 128}
+      - {x: 109, y: 128}
+      - {x: 101, y: 121}
+      - {x: 99, y: 105}
+      - {x: 101, y: 97}
+      - {x: 99, y: 73}
+      - {x: 101, y: 65}
+      - {x: 100, y: 57}
+      - {x: 99, y: 41}
+      - {x: 101, y: 33}
+      - {x: 100, y: 18}
+      - {x: 100, y: 2}
+      - {x: 96, y: -1}
+      - {x: 96, y: -4}
+      - {x: 102, y: -12}
+      - {x: 111, y: -17}
+      - {x: 113, y: -17}
+      - {x: 124, y: -13}
+      - {x: 129, y: -5}
+      - {x: 129, y: 0}
+      - {x: 124, y: 3}
+    - - {x: 154, y: 2}
+      - {x: 156, y: 10}
+      - {x: 155, y: 26}
+      - {x: 156, y: 41}
+      - {x: 155, y: 58}
+      - {x: 156, y: 73}
+      - {x: 155, y: 90}
+      - {x: 156, y: 105}
+      - {x: 155, y: 122}
+      - {x: 150, y: 128}
+      - {x: 135, y: 128}
+      - {x: 132, y: 118}
+      - {x: 131, y: 107}
+      - {x: 132, y: 90}
+      - {x: 131, y: 75}
+      - {x: 136, y: 60}
+      - {x: 132, y: 58}
+      - {x: 131, y: 43}
+      - {x: 136, y: 28}
+      - {x: 132, y: 26}
+      - {x: 131, y: 11}
+      - {x: 132, y: -1}
+      - {x: 130, y: -7}
+      - {x: 130, y: -16}
+      - {x: 158, y: -16}
+      - {x: 159, y: -14}
+      - {x: 159, y: -6}
+    - - {x: -160, y: -3}
+      - {x: -166, y: 2}
+      - {x: -166, y: 1}
+      - {x: -160, y: 6}
+      - {x: -161, y: 6}
+      - {x: -161, y: 3}
+      - {x: -158, y: 0}
+      - {x: -156, y: 0}
+      - {x: -150, y: -3}
+      - {x: -149, y: -3}
+      - {x: -150, y: -2}
+      - {x: -152, y: -2}
+      - {x: -157, y: -6}
+      - {x: -157, y: -7}
+      - {x: -159, y: -8}
+      - {x: -158, y: -8}
+    - - {x: -63, y: -3}
+      - {x: -69, y: 2}
+      - {x: -68, y: 3}
+      - {x: -67, y: 3}
+      - {x: -64, y: 6}
+      - {x: -65, y: 6}
+      - {x: -65, y: 3}
+      - {x: -62, y: 0}
+      - {x: -60, y: 0}
+      - {x: -54, y: -3}
+      - {x: -53, y: -2}
+      - {x: -54, y: -1}
+      - {x: -56, y: -1}
+      - {x: -59, y: -2}
+      - {x: -62, y: -6}
+    - - {x: 33, y: -3}
+      - {x: 27, y: 2}
+      - {x: 28, y: 3}
+      - {x: 29, y: 3}
+      - {x: 32, y: 6}
+      - {x: 31, y: 6}
+      - {x: 31, y: 3}
+      - {x: 34, y: 0}
+      - {x: 36, y: 0}
+      - {x: 42, y: -3}
+      - {x: 43, y: -2}
+      - {x: 42, y: -1}
+      - {x: 40, y: -1}
+      - {x: 37, y: -2}
+      - {x: 34, y: -6}
+    - - {x: -161, y: 28}
+      - {x: -159, y: 33}
+      - {x: -154, y: 30}
+      - {x: -156, y: 32}
+      - {x: -157, y: 32}
+      - {x: -161, y: 27}
+      - {x: -161, y: 23}
+    - - {x: -128, y: 27}
+      - {x: -129, y: 30}
+      - {x: -125, y: 34}
+      - {x: -126, y: 36}
+      - {x: -127, y: 34}
+      - {x: -125, y: 32}
+      - {x: -128, y: 28}
+      - {x: -128, y: 22}
+    - - {x: -65, y: 28}
+      - {x: -63, y: 33}
+      - {x: -58, y: 30}
+      - {x: -60, y: 32}
+      - {x: -61, y: 32}
+      - {x: -65, y: 27}
+      - {x: -65, y: 23}
+    - - {x: -32, y: 27}
+      - {x: -33, y: 30}
+      - {x: -29, y: 34}
+      - {x: -30, y: 36}
+      - {x: -31, y: 34}
+      - {x: -29, y: 32}
+      - {x: -32, y: 28}
+      - {x: -32, y: 22}
+    - - {x: 31, y: 28}
+      - {x: 33, y: 33}
+      - {x: 38, y: 30}
+      - {x: 36, y: 32}
+      - {x: 35, y: 32}
+      - {x: 31, y: 27}
+      - {x: 31, y: 23}
+    - - {x: 64, y: 27}
+      - {x: 63, y: 30}
+      - {x: 67, y: 34}
+      - {x: 66, y: 36}
+      - {x: 65, y: 34}
+      - {x: 67, y: 32}
+      - {x: 64, y: 28}
+      - {x: 64, y: 22}
+    - - {x: -102, y: 28}
+      - {x: -102, y: 29}
+      - {x: -98, y: 29}
+      - {x: -94, y: 33}
+      - {x: -95, y: 34}
+      - {x: -93, y: 32}
+      - {x: -90, y: 32}
+      - {x: -92, y: 27}
+      - {x: -91, y: 27}
+      - {x: -91, y: 28}
+      - {x: -94, y: 31}
+      - {x: -97, y: 30}
+      - {x: -99, y: 31}
+      - {x: -102, y: 28}
+      - {x: -102, y: 27}
+      - {x: -101, y: 27}
+    - - {x: -6, y: 28}
+      - {x: -6, y: 29}
+      - {x: -2, y: 29}
+      - {x: 2, y: 33}
+      - {x: 1, y: 34}
+      - {x: 3, y: 32}
+      - {x: 6, y: 32}
+      - {x: 4, y: 27}
+      - {x: 5, y: 27}
+      - {x: 5, y: 28}
+      - {x: 2, y: 31}
+      - {x: -1, y: 30}
+      - {x: -3, y: 31}
+      - {x: -6, y: 28}
+      - {x: -6, y: 27}
+      - {x: -5, y: 27}
+    - - {x: 91, y: 62}
+      - {x: 94, y: 66}
+      - {x: 98, y: 74}
+      - {x: 98, y: 84}
+      - {x: 93, y: 91}
+      - {x: 91, y: 92}
+      - {x: 76, y: 92}
+      - {x: 64, y: 90}
+      - {x: 59, y: 92}
+      - {x: 44, y: 92}
+      - {x: 33, y: 89}
+      - {x: 27, y: 92}
+      - {x: -20, y: 92}
+      - {x: -32, y: 88}
+      - {x: -38, y: 92}
+      - {x: -52, y: 92}
+      - {x: -63, y: 89}
+      - {x: -69, y: 92}
+      - {x: -83, y: 92}
+      - {x: -94, y: 91}
+      - {x: -105, y: 92}
+      - {x: -117, y: 92}
+      - {x: -128, y: 88}
+      - {x: -134, y: 92}
+      - {x: -148, y: 92}
+      - {x: -159, y: 89}
+      - {x: -165, y: 92}
+      - {x: -175, y: 92}
+      - {x: -189, y: 89}
+      - {x: -192, y: 87}
+      - {x: -192, y: 64}
+      - {x: -189, y: 62}
+    - - {x: -131, y: 98}
+      - {x: -118, y: 94}
+      - {x: -76, y: 94}
+      - {x: -66, y: 99}
+      - {x: -57, y: 94}
+      - {x: -41, y: 94}
+      - {x: -26, y: 97}
+      - {x: -22, y: 94}
+      - {x: 20, y: 94}
+      - {x: 30, y: 99}
+      - {x: 39, y: 94}
+      - {x: 55, y: 94}
+      - {x: 70, y: 97}
+      - {x: 74, y: 94}
+      - {x: 91, y: 94}
+      - {x: 96, y: 98}
+      - {x: 97, y: 104}
+      - {x: 97, y: 121}
+      - {x: 88, y: 128}
+      - {x: 72, y: 128}
+      - {x: 67, y: 124}
+      - {x: 56, y: 128}
+      - {x: 38, y: 128}
+      - {x: 31, y: 120}
+      - {x: 25, y: 128}
+      - {x: 7, y: 128}
+      - {x: -2, y: 123}
+      - {x: -11, y: 128}
+      - {x: -26, y: 128}
+      - {x: -34, y: 124}
+      - {x: -41, y: 128}
+      - {x: -57, y: 128}
+      - {x: -65, y: 122}
+      - {x: -72, y: 128}
+      - {x: -89, y: 128}
+      - {x: -98, y: 123}
+      - {x: -104, y: 128}
+      - {x: -123, y: 128}
+      - {x: -131, y: 123}
+      - {x: -135, y: 128}
+      - {x: -156, y: 128}
+      - {x: -161, y: 120}
+      - {x: -168, y: 128}
+      - {x: -186, y: 128}
+      - {x: -192, y: 122}
+      - {x: -192, y: 97}
+      - {x: -187, y: 94}
+      - {x: -172, y: 94}
+      - {x: -162, y: 99}
+      - {x: -155, y: 94}
+      - {x: -136, y: 94}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
