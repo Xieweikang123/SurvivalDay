@@ -263,11 +263,8 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
-    <Reference Include="LightJson">
-      <HintPath>Assets/Plugins/LightJson.dll</HintPath>
-    </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>Assets/ThirdLibrary/UnityPackages/JsonNet/Newtonsoft.Json.dll</HintPath>
+      <HintPath>Assets/UnityPackages/JsonNet/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Advertisements">
       <HintPath>C:/Users/xie/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
@@ -292,30 +289,76 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\BackpackManager\PanelBase.cs" />
-    <Compile Include="Assets\Scripts\BackpackManager\PanelMgr.cs" />
-    <Compile Include="Assets\Scripts\BackpackManager\StatuPanel.cs" />
-    <Compile Include="Assets\Scripts\BackpackManager\UIOperation.cs" />
-    <Compile Include="Assets\Scripts\Common\Common.cs" />
+    <Compile Include="Assets\Anima2D\Examples\Scripts\CharacterMotion.cs" />
+    <Compile Include="Assets\Anima2D\Examples\Scripts\Follow.cs" />
+    <Compile Include="Assets\Anima2D\Examples\Scripts\SkinnedMeshCombiner.cs" />
+    <Compile Include="Assets\Anima2D\Examples\Scripts\SpringBone.cs" />
+    <Compile Include="Assets\Anima2D\Examples\Scripts\SpringCollider.cs" />
+    <Compile Include="Assets\Anima2D\Examples\Scripts\SpringManager.cs" />
+    <Compile Include="Assets\Anima2D\Examples\Scripts\SpriteCycle.cs" />
+    <Compile Include="Assets\Anima2D\Examples\Scripts\SpriteCycleParallax.cs" />
+    <Compile Include="Assets\Anima2D\Scripts\Bone2D.cs" />
+    <Compile Include="Assets\Anima2D\Scripts\Control.cs" />
+    <Compile Include="Assets\Anima2D\Scripts\EditorUpdaterProxy.cs" />
+    <Compile Include="Assets\Anima2D\Scripts\Ik2D.cs" />
+    <Compile Include="Assets\Anima2D\Scripts\IkCCD2D.cs" />
+    <Compile Include="Assets\Anima2D\Scripts\IkGroup.cs" />
+    <Compile Include="Assets\Anima2D\Scripts\IkLimb2D.cs" />
+    <Compile Include="Assets\Anima2D\Scripts\IkSolver2D.cs" />
+    <Compile Include="Assets\Anima2D\Scripts\IkSolver2DCCD.cs" />
+    <Compile Include="Assets\Anima2D\Scripts\IkSolver2DLimb.cs" />
+    <Compile Include="Assets\Anima2D\Scripts\MathUtils.cs" />
+    <Compile Include="Assets\Anima2D\Scripts\Pose.cs" />
+    <Compile Include="Assets\Anima2D\Scripts\PoseManager.cs" />
+    <Compile Include="Assets\Anima2D\Scripts\SpriteMesh.cs" />
+    <Compile Include="Assets\Anima2D\Scripts\SpriteMeshAnimation.cs" />
+    <Compile Include="Assets\Anima2D\Scripts\SpriteMeshInstance.cs" />
+    <Compile Include="Assets\Scripts\Config\Config.cs" />
+    <Compile Include="Assets\Scripts\Custom\AnimEvents.cs" />
+    <Compile Include="Assets\Scripts\DataBase\ExportXml.cs" />
+    <Compile Include="Assets\Scripts\Game\Collect.cs" />
+    <Compile Include="Assets\Scripts\Game\FollowTarget.cs" />
     <Compile Include="Assets\Scripts\Game\GameManager.cs" />
-    <Compile Include="Assets\Scripts\IO\IOHelper.cs" />
-    <Compile Include="Assets\Scripts\IO\TestSave.cs" />
-    <Compile Include="Assets\Scripts\Item\Ammor.cs" />
-    <Compile Include="Assets\Scripts\Item\CombineFormula.cs" />
-    <Compile Include="Assets\Scripts\Item\Equipment.cs" />
-    <Compile Include="Assets\Scripts\Item\Food.cs" />
-    <Compile Include="Assets\Scripts\Item\ItemBase.cs" />
-    <Compile Include="Assets\Scripts\Item\ItemCombine.cs" />
-    <Compile Include="Assets\Scripts\Item\Materials.cs" />
-    <Compile Include="Assets\Scripts\Item\Weapon.cs" />
-    <Compile Include="Assets\Scripts\Player\CameraFellow.cs" />
-    <Compile Include="Assets\Scripts\Player\Player.cs" />
-    <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
-    <Compile Include="Assets\Scripts\TimeSystem\DayTime.cs" />
-    <Compile Include="Assets\Scripts\TimeSystem\Season.cs" />
-    <Compile Include="Assets\Scripts\TimeSystem\TimeSystem.cs" />
-    <Compile Include="Assets\Scripts\WorldSpawn\World.cs" />
-    <Compile Include="Assets\ThirdLibrary\UnityPackages\JsonNetSample\JsonNetSample.cs" />
+    <Compile Include="Assets\Scripts\Game\Goods.cs" />
+    <Compile Include="Assets\Scripts\Game\Inventory\Drag.cs" />
+    <Compile Include="Assets\Scripts\Game\Inventory\Drop.cs" />
+    <Compile Include="Assets\Scripts\Game\Inventory\Inventory.cs" />
+    <Compile Include="Assets\Scripts\Game\Inventory\InventoryItem.cs" />
+    <Compile Include="Assets\Scripts\Game\Inventory\InventoryList.cs" />
+    <Compile Include="Assets\Scripts\Game\lightAndNight.cs" />
+    <Compile Include="Assets\Scripts\Game\ManufactureControl.cs" />
+    <Compile Include="Assets\Scripts\Game\menuControl.cs" />
+    <Compile Include="Assets\Scripts\Game\moveCountControl.cs" />
+    <Compile Include="Assets\Scripts\Game\plantGrowth.cs" />
+    <Compile Include="Assets\Scripts\Game\TimeSystem.cs" />
+    <Compile Include="Assets\Scripts\Game\UI\Cover.cs" />
+    <Compile Include="Assets\Scripts\Game\UI\Drag2.cs" />
+    <Compile Include="Assets\Scripts\Game\UI\Drop2.cs" />
+    <Compile Include="Assets\Scripts\Game\UI\HideUI.cs" />
+    <Compile Include="Assets\Scripts\Game\UI\ShortCuts.cs" />
+    <Compile Include="Assets\Scripts\Game\UI\ShowAndHide.cs" />
+    <Compile Include="Assets\Scripts\Game\UI\VirtualRocker.cs" />
+    <Compile Include="Assets\Scripts\LoadScene\B.cs" />
+    <Compile Include="Assets\Scripts\LoadScene\LoadNewScene.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerMove.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerState.cs" />
+    <Compile Include="Assets\Scripts\Save\IOHelper.cs" />
+    <Compile Include="Assets\Scripts\Save\Save.cs" />
+    <Compile Include="Assets\Scripts\Test\CSVReadData.cs" />
+    <Compile Include="Assets\UnityPackages\JsonNetSample\JsonNetSample.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Anima2D\Examples\Shaders\Unlit-Alpha-Cull-off.shader" />
+    <None Include="Assets\Anima2D\Examples\Shaders\VertexLitOneDirectional.shader" />
+    <None Include="Assets\Anima2D\Examples\Shaders\VisibleInsideMask.shader" />
+    <None Include="Assets\Anima2D\Examples\Shaders\VisibleOutsideMask.shader" />
+    <None Include="Assets\Anima2D\Licenses.txt" />
+    <None Include="Assets\Anima2D\Readme.txt" />
+    <None Include="Assets\Anima2D\Version.txt" />
+    <None Include="Assets\Resources\Data\materials.xml" />
+    <None Include="Assets\Resources\materials.xml" />
+    <None Include="Assets\Shaders\night.shader" />
+    <None Include="Assets\Xml\ChinaData\materials.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

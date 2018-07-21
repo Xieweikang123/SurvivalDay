@@ -20,8 +20,9 @@ public class Collect : MonoBehaviour
     {
         //让panelBag先激活
         //GameObject obj = GameObject.Find("panelBag");
-        panelBagObj.SetActive(true);
-        panelBagObj.SetActive(false);
+    
+        // panelBagObj.SetActive(true);
+        //panelBagObj.SetActive(false);
     }
 
 
