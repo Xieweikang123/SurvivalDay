@@ -289,34 +289,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Anima2D\Examples\Scripts\CharacterMotion.cs" />
-    <Compile Include="Assets\Anima2D\Examples\Scripts\Follow.cs" />
-    <Compile Include="Assets\Anima2D\Examples\Scripts\SkinnedMeshCombiner.cs" />
-    <Compile Include="Assets\Anima2D\Examples\Scripts\SpringBone.cs" />
-    <Compile Include="Assets\Anima2D\Examples\Scripts\SpringCollider.cs" />
-    <Compile Include="Assets\Anima2D\Examples\Scripts\SpringManager.cs" />
-    <Compile Include="Assets\Anima2D\Examples\Scripts\SpriteCycle.cs" />
-    <Compile Include="Assets\Anima2D\Examples\Scripts\SpriteCycleParallax.cs" />
-    <Compile Include="Assets\Anima2D\Scripts\Bone2D.cs" />
-    <Compile Include="Assets\Anima2D\Scripts\Control.cs" />
-    <Compile Include="Assets\Anima2D\Scripts\EditorUpdaterProxy.cs" />
-    <Compile Include="Assets\Anima2D\Scripts\Ik2D.cs" />
-    <Compile Include="Assets\Anima2D\Scripts\IkCCD2D.cs" />
-    <Compile Include="Assets\Anima2D\Scripts\IkGroup.cs" />
-    <Compile Include="Assets\Anima2D\Scripts\IkLimb2D.cs" />
-    <Compile Include="Assets\Anima2D\Scripts\IkSolver2D.cs" />
-    <Compile Include="Assets\Anima2D\Scripts\IkSolver2DCCD.cs" />
-    <Compile Include="Assets\Anima2D\Scripts\IkSolver2DLimb.cs" />
-    <Compile Include="Assets\Anima2D\Scripts\MathUtils.cs" />
-    <Compile Include="Assets\Anima2D\Scripts\Pose.cs" />
-    <Compile Include="Assets\Anima2D\Scripts\PoseManager.cs" />
-    <Compile Include="Assets\Anima2D\Scripts\SpriteMesh.cs" />
-    <Compile Include="Assets\Anima2D\Scripts\SpriteMeshAnimation.cs" />
-    <Compile Include="Assets\Anima2D\Scripts\SpriteMeshInstance.cs" />
     <Compile Include="Assets\Scripts\Config\Config.cs" />
     <Compile Include="Assets\Scripts\Custom\AnimEvents.cs" />
     <Compile Include="Assets\Scripts\DataBase\ExportXml.cs" />
     <Compile Include="Assets\Scripts\Game\Collect.cs" />
+    <Compile Include="Assets\Scripts\Game\Data\CSVReadData.cs" />
+    <Compile Include="Assets\Scripts\Game\Data\Equipment.cs" />
+    <Compile Include="Assets\Scripts\Game\Data\Food.cs" />
+    <Compile Include="Assets\Scripts\Game\Data\Goods.cs" />
+    <Compile Include="Assets\Scripts\Game\Data\Tool.cs" />
     <Compile Include="Assets\Scripts\Game\FollowTarget.cs" />
     <Compile Include="Assets\Scripts\Game\GameManager.cs" />
     <Compile Include="Assets\Scripts\Game\Goods.cs" />
@@ -344,17 +325,9 @@
     <Compile Include="Assets\Scripts\Player\PlayerState.cs" />
     <Compile Include="Assets\Scripts\Save\IOHelper.cs" />
     <Compile Include="Assets\Scripts\Save\Save.cs" />
-    <Compile Include="Assets\Scripts\Test\CSVReadData.cs" />
     <Compile Include="Assets\UnityPackages\JsonNetSample\JsonNetSample.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Anima2D\Examples\Shaders\Unlit-Alpha-Cull-off.shader" />
-    <None Include="Assets\Anima2D\Examples\Shaders\VertexLitOneDirectional.shader" />
-    <None Include="Assets\Anima2D\Examples\Shaders\VisibleInsideMask.shader" />
-    <None Include="Assets\Anima2D\Examples\Shaders\VisibleOutsideMask.shader" />
-    <None Include="Assets\Anima2D\Licenses.txt" />
-    <None Include="Assets\Anima2D\Readme.txt" />
-    <None Include="Assets\Anima2D\Version.txt" />
     <None Include="Assets\Resources\Data\materials.xml" />
     <None Include="Assets\Resources\materials.xml" />
     <None Include="Assets\Shaders\night.shader" />

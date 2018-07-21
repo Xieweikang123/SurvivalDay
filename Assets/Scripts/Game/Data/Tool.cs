@@ -2,12 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Good : MonoBehaviour {
-
-    public int id;
-    public int count = 1;
-
-    public float collectionTime = 1f;   //收集此物品所需时间
+public class Tool : Goods {
 
 	// Use this for initialization
 	void Start () {

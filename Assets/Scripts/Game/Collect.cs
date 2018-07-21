@@ -81,11 +81,11 @@ public class Collect : MonoBehaviour
     //get按钮拾取
     public void PickUp()
     {
-        Goods good = waitForCollectObj.GetComponent<Goods>();
+        Good good = waitForCollectObj.GetComponent<Good>();
 
         StartCoroutine(waitThenCollect(good));
     }
-    IEnumerator waitThenCollect(Goods good)
+    IEnumerator waitThenCollect(Good good)
     {
         //在获取物品前，先判断待拾取的是什么物体，如果是萝卜之类的，不管玩家是否使用工具，都可以拾取。    如果是石块之类的，则要先判断玩家是否使用了相应的工具，如果是的话才能拾取
 
