@@ -1550,7 +1550,6 @@ GameObject:
   m_Component:
   - component: {fileID: 304379058}
   - component: {fileID: 304379057}
-  - component: {fileID: 304379059}
   m_Layer: 0
   m_Name: TorchNight
   m_TagString: Untagged
@@ -1615,28 +1614,6 @@ Transform:
   m_Father: {fileID: 893691673}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &304379059
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 304379056}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 860f7d107a4f7cd409c9113c67e9958f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  changeTime: 0.1
-  masks:
-  - {fileID: 2800000, guid: 1a03d63aea69b474e9499c06e20e4fdc, type: 3}
-  - {fileID: 2800000, guid: 1f31ea52b5b5aa14aa7e41d08a1befd6, type: 3}
-  - {fileID: 2800000, guid: 82aef40657938bc4b9a843812cc36732, type: 3}
-  - {fileID: 2800000, guid: 16d5128c6034045498cd46562e9ff9d7, type: 3}
-  - {fileID: 2800000, guid: feb2ad708d11a3c4f8c0fb14a08035e6, type: 3}
-  - {fileID: 2800000, guid: 16d5128c6034045498cd46562e9ff9d7, type: 3}
-  - {fileID: 2800000, guid: 82aef40657938bc4b9a843812cc36732, type: 3}
-  - {fileID: 2800000, guid: 1f31ea52b5b5aa14aa7e41d08a1befd6, type: 3}
-  player: {fileID: 42712871}
 --- !u!1 &304393033
 GameObject:
   m_ObjectHideFlags: 0

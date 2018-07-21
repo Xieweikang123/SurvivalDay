@@ -17,9 +17,11 @@ public class Drop : MonoBehaviour,IDropHandler {
 
         GameObject obj = eventData.pointerDrag;
 
-    
         InventoryItem originalItem = obj.transform.parent.GetComponent<InventoryItem>();
-
+      
+        //修复bug,当拖动虚拟摇杆到快捷栏时，会报错
+        if (originalItem == null)
+            return;
 
         //不管要拖拽的物品有几个，统统直接交换
         //交换两个槽的信息
