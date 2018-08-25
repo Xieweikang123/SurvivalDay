@@ -32,12 +32,8 @@ public class CSVReadData : MonoBehaviour {
 
             _dictMaterials.Add(info.id, info);
         }
-        //MaterialsInfo info1 = new MaterialsInfo();
-        //print(_dictMaterials.TryGetValue(1, out info1));
-        //print(info1.name);
+        print(_dictMaterials["303"].name);
     }
-
-
 }
 public struct MaterialsInfo
 {

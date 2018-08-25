@@ -88,7 +88,6 @@ public class Inventory : MonoBehaviour {
     {
         foreach (InventoryItem obj in inventoryItemsObj)
         {
-           // InventoryItem inventoryItem = obj.GetComponent<InventoryItem>();
             if (id == obj.ID)
             {
                 return true;
