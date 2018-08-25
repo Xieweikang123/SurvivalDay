@@ -90,9 +90,14 @@ public class Collect : MonoBehaviour
         //在获取物品前，先判断待拾取的是什么物体，如果是萝卜之类的，不管玩家是否使用工具，都可以拾取。    如果是石块之类的，则要先判断玩家是否使用了相应的工具，如果是的话才能拾取
 
         //通过good的id得到物体的信息
-        //MaterialsInfo1 info = InventoryList._instance.ReadXml(good.id);
-        print("good id"+good.id);
-        MaterialsInfo info = CSVReadData._instance._dictMaterials[good.id];
+        MaterialsInfo info=new MaterialsInfo();
+        try { 
+             info = CSVReadData._instance._dictMaterials[good.id];
+        }
+        catch
+        {
+            print("不能从字典里找到此id");
+        }
         //判断物体类型
         switch (info.type)
         {
