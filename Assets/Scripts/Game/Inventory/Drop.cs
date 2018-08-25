@@ -9,13 +9,12 @@ public class Drop : MonoBehaviour,IDropHandler {
     public virtual void OnDrop(PointerEventData eventData)
     {
 
-
-
         Destroy(GameObject.Find("icon1"));
 
 
         GameObject obj = eventData.pointerDrag;
 
+        print(obj);
     
         InventoryItem originalItem = obj.transform.parent.GetComponent<InventoryItem>();
 
@@ -25,7 +24,6 @@ public class Drop : MonoBehaviour,IDropHandler {
         //不管要拖拽的物品有几个，统统直接交换
         //交换两个槽的信息
         Inventory.Exchange(originalItem, GetComponent<InventoryItem>());
-
     }
 
 }

@@ -34,10 +34,6 @@ public class Inventory : MonoBehaviour {
     //交换两个槽
     static public void Exchange(InventoryItem item1,InventoryItem item2 )
     {
-        //print("exchange");
-
-        //InventoryItem tempItem = new InventoryItem();
-
         string tempID = item1.ID;
         int tempCount = item1.Count;
 

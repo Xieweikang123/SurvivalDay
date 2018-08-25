@@ -52,7 +52,7 @@ public class InventoryItem : MonoBehaviour
     public void SetData(string id, int count)
     {
 
-        if (id == "0")
+        if (id == "")
         {
             ClearData();
             return;
@@ -177,7 +177,6 @@ public class InventoryItem : MonoBehaviour
         //如果此物品用完了，隐藏物品介绍面板和操作面板
         if (this.Count == 0)
         {
-            transform.root.Find("menu").gameObject.SetActive(false);
             transform.root.Find("describe").gameObject.SetActive(false);
         }
 
