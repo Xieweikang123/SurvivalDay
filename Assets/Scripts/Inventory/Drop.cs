@@ -14,8 +14,6 @@ public class Drop : MonoBehaviour,IDropHandler {
 
         GameObject obj = eventData.pointerDrag;
 
-        print(obj);
-    
         InventoryItem originalItem = obj.transform.parent.GetComponent<InventoryItem>();
 
         //一个bug，如果拖拽虚拟摇杆的球到快捷栏时，会报错

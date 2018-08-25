@@ -118,7 +118,7 @@ public class InventoryItem : MonoBehaviour
                 objHint.SetActive(true);
 
                 objHint.GetComponent<Text>().color = Color.black;
-                objHint.GetComponent<Text>().text = "你使用了 "+info.name+" ,增加了 <color=red><b>"+info.addEnergy+"</b></color> 点能量";
+                objHint.GetComponent<Text>().text = "你使用了 "+info.name+" ,增加了 <color=red><b>"+info.addHungry+"</b></color> 点能量";
                 
                
                 //  print("增加了" + info.addEnergy + "点能量");
