@@ -4645,7 +4645,7 @@ GameObject:
   m_Component:
   - component: {fileID: 658357396}
   m_Layer: 5
-  m_Name: MoveBtn_
+  m_Name: MoveBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

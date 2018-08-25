@@ -199,19 +199,15 @@ public class InventoryItem : MonoBehaviour
     //显示操作面板/显示物品简介面板
     public void OnClickIcon()
     {
-        GameObject menuObj = transform.root.Find("menu").gameObject;
         GameObject desObj = transform.root.Find("describe").gameObject;
 
-        menuObj.SetActive(true);
         desObj.SetActive(true);
 
         //把该物品的InventoryItem赋给describe面板
-        menuObj.GetComponent<menuControl>().item = this;
 
         Vector3 v3 = Input.mousePosition;
         v3 -= new Vector3(Screen.width / 2-70, Screen.height / 2+80, 0);
         
-        menuObj.transform.localPosition = v3;
         v3 += new Vector3(Screen.width / 2 - 1150, Screen.height / 2 - 350, 0);
         desObj.transform.localPosition = v3;
 
