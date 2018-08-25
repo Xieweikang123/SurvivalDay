@@ -20,10 +20,10 @@ public class Inventory : MonoBehaviour {
     // Use this for initialization
     void Start () {
         //   print("执行了");
-        AddItems(7, 1);
+        AddItems("001", 1);
        // AddItems(6, 1);
         //AddItems(2, 2);
-        AddItems(8, 1);
+        AddItems("303", 1);
     }
 	
 	// Update is called once per frame
@@ -38,7 +38,7 @@ public class Inventory : MonoBehaviour {
 
         //InventoryItem tempItem = new InventoryItem();
 
-        int tempID = item1.ID;
+        string tempID = item1.ID;
         int tempCount = item1.Count;
 
         item1.SetData(item2.ID, item2.Count);
@@ -46,7 +46,7 @@ public class Inventory : MonoBehaviour {
     }
 
     //得到一个物品
-    public void AddItems(int id, int count)
+    public void AddItems(string id, int count)
     {
         InventoryItem tempItem = null; //存储一个空槽
 
@@ -88,7 +88,7 @@ public class Inventory : MonoBehaviour {
     }
 
     //判断物品是否存在
-    private bool isExist(int id)
+    private bool isExist(string id)
     {
         foreach (InventoryItem obj in inventoryItemsObj)
         {

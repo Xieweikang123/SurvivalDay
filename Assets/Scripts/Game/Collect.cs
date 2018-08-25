@@ -91,6 +91,7 @@ public class Collect : MonoBehaviour
 
         //通过good的id得到物体的信息
         //MaterialsInfo1 info = InventoryList._instance.ReadXml(good.id);
+        print("good id"+good.id);
         MaterialsInfo info = CSVReadData._instance._dictMaterials[good.id];
         //判断物体类型
         switch (info.type)
@@ -98,7 +99,7 @@ public class Collect : MonoBehaviour
             //如果是石头
             case "Stone":
                 //判断玩家是否使用稿子
-                if (ShortCuts.holdObjItem==null||ShortCuts.holdObjItem.ID != 7)
+                if (ShortCuts.holdObjItem==null||ShortCuts.holdObjItem.ID != "7")
                 {
                     print("请使用镐子");
                     yield break;

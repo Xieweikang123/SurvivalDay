@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class InventoryItem : MonoBehaviour
 {
 
-    public int ID = 0;
+    public string ID = "";
 
     [SerializeField]
     private int count = 0;
@@ -49,10 +49,10 @@ public class InventoryItem : MonoBehaviour
     {
 
     }
-    public void SetData(int id, int count)
+    public void SetData(string id, int count)
     {
 
-        if (id == 0)
+        if (id == "0")
         {
             ClearData();
             return;
@@ -106,7 +106,7 @@ public class InventoryItem : MonoBehaviour
         print("使用物品");
         
         //如果id为0，则返回
-        if (ID == 0)
+        if (ID == "")
             return;
 
         GameObject objHint = GameObject.Find("UI").transform.Find("hint").gameObject;
@@ -187,7 +187,7 @@ public class InventoryItem : MonoBehaviour
     //清空数据
     public void ClearData()
     {
-        ID = 0;
+        ID = "";
         count = 0;
 
         countTxt.enabled = false;

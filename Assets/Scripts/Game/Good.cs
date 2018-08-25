@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Good : MonoBehaviour {
 
-    public int id;
+    public string id;
     public int count = 1;
 
     public float collectionTime = 1f;   //收集此物品所需时间
