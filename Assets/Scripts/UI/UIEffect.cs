@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AnimEvents : MonoBehaviour {
+public class UIEffect : MonoBehaviour {
 
     void OnHide()
     {
