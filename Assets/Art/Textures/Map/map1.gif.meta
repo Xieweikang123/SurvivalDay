@@ -1,14 +1,13 @@
 fileFormatVersion: 2
 guid: dc490c0e251571d40ad271a0b340f853
-timeCreated: 1527413790
-licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
     21300000: "2D\u8349\u5730\u74F7\u7816\u573A\u666F\u7D20\u6750-\u8BBE\u7F6E_0(set_0)_\u7231\u7ED9\u7F51_aigei_com_0"
     21300002: "2D\u8349\u5730\u74F7\u7816\u573A\u666F\u7D20\u6750-\u8BBE\u7F6E_0(set_0)_\u7231\u7ED9\u7F51_aigei_com_1"
     21300004: "2D\u8349\u5730\u74F7\u7816\u573A\u666F\u7D20\u6750-\u8BBE\u7F6E_0(set_0)_\u7231\u7ED9\u7F51_aigei_com_2"
     21300006: "2D\u8349\u5730\u74F7\u7816\u573A\u666F\u7D20\u6750-\u8BBE\u7F6E_0(set_0)_\u7231\u7ED9\u7F51_aigei_com_3"
-  serializedVersion: 4
+  externalObjects: {}
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -16,6 +15,8 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -24,6 +25,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -31,10 +34,13 @@ TextureImporter:
   textureFormat: 1
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -43,46 +49,57 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Standalone
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Android
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "2D\u8349\u5730\u74F7\u7816\u573A\u666F\u7D20\u6750-\u8BBE\u7F6E_0(set_0)_\u7231\u7ED9\u7F51_aigei_com_0"
+      name: "2D\u8349\u5730\u74F7\u7816\u573A\u666F\u7D20\u6750-\u8BBE\u7F6E_0(set_0)_\u7231\u7ED9\u7F51_aigei_com_1"
       rect:
         serializedVersion: 2
         x: 80
@@ -90,49 +107,17 @@ TextureImporter:
         width: 48
         height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: "2D\u8349\u5730\u74F7\u7816\u573A\u666F\u7D20\u6750-\u8BBE\u7F6E_0(set_0)_\u7231\u7ED9\u7F51_aigei_com_1"
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 97
-        width: 48
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: "2D\u8349\u5730\u74F7\u7816\u573A\u666F\u7D20\u6750-\u8BBE\u7F6E_0(set_0)_\u7231\u7ED9\u7F51_aigei_com_2"
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 240
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: "2D\u8349\u5730\u74F7\u7816\u573A\u666F\u7D20\u6750-\u8BBE\u7F6E_0(set_0)_\u7231\u7ED9\u7F51_aigei_com_3"
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 145
-        width: 48
-        height: 47
-      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6b24662322ac5d7479aef68016c0e232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline:
     - - {x: -144, y: 144}
       - {x: -144, y: -144}
@@ -142,7 +127,16 @@ TextureImporter:
       - {x: -64.325676, y: -48.297615}
       - {x: -16.022774, y: -47.911186}
       - {x: -15.636353, y: -94.66839}
+    physicsShape: []
+    bones: []
+    spriteID: 2d74be4654ec61845946150d01891afb
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
