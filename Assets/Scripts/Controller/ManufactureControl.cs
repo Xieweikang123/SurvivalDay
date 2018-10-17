@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class ManufactureControl : MonoBehaviour {
 
     public static ManufactureControl _instance;
-    private Dictionary<int, int> idAndCountDic = new Dictionary<int, int>();
+   // private Dictionary<int, int> idAndCountDic = new Dictionary<int, int>();
 
     [SerializeField]
     private InventoryItem[] items;  //包含的四个制作槽

@@ -6,7 +6,7 @@ public class TimeSystem : MonoBehaviour
 {
     public static TimeSystem _instance;
 
-    public SpriteRenderer dayRenderer;
+   // public SpriteRenderer dayRenderer;
     public SpriteRenderer torchNightRenderer;
     public Sprite[] nightSprites;
 
@@ -23,8 +23,8 @@ public class TimeSystem : MonoBehaviour
     }
     private void Start()
     {
-        time = 300;
-        InvokeRepeating("GetCurrentTime", 0, 0.3f);
+        //time = 300;
+        //InvokeRepeating("GetCurrentTime", 0, 0.3f);
     }
 
     // Update is called once per frame
@@ -39,22 +39,24 @@ public class TimeSystem : MonoBehaviour
         //print(time);
     }
 
-    void GetCurrentTime()
-    {
-        //print("被调用了");
+    //void GetCurrentTime()
+    //{
+    //    //print("被调用了");
 
-        day = (int)(time / 600.0f);
-        timePeriod = (int)(time % 600.0f);
+    //    day = (int)(time / 600.0f);
+    //    timePeriod = (int)(time % 600.0f);
 
-       // print(timePeriod);
+    //   // print(timePeriod);
 
-        txtTime.text = "第" + (day+1).ToString() + "天 " + getPeriod();//+time.ToString("#0");
-    }
+    //    txtTime.text = "第" + (day+1).ToString() + "天 " + getPeriod();//+time.ToString("#0");
+    //}
     /// <summary>
     /// 
 
     /// </summary>
     /// <returns></returns>
+    /// 
+    /*
     private string getPeriod()
     {
         //天的亮度 0~255   0:最亮
@@ -138,5 +140,5 @@ public class TimeSystem : MonoBehaviour
         }
 
     }
-
+    */
 }
