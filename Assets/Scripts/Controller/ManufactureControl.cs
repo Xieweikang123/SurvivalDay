@@ -10,7 +10,7 @@ public class ManufactureControl : MonoBehaviour {
 
     [SerializeField]
     private InventoryItem[] items;  //包含的四个制作槽
-    private int totalID=0;        //id总和
+    //private int totalID=0;        //id总和
 
     private void Awake()
     {
