@@ -13,7 +13,7 @@ public enum Direction
 }
 
 
-public class PlayerState : MonoBehaviour
+public class PlayerState : CharacterProperty,IMove
 {
 
     public Slider sliderEnergy;
@@ -35,7 +35,7 @@ public class PlayerState : MonoBehaviour
     private float reduceHungryPerSecond = 0.5f; //每秒掉饥饿值
     private float reduceWaterPerSecond = 0.8f;   //每秒失水量
 
-    private float maxHealth = 100f;
+    //  maxHealth = 100;
     private float currentHealth = 100;
 
     private float maxHungry = 100f;
@@ -100,10 +100,24 @@ public class PlayerState : MonoBehaviour
             StartCoroutine("LinerChangeWater");
         }
     }
+
+    public float MoveSpeed
+    {
+        get
+        {
+            throw new NotImplementedException();
+        }
+
+        set
+        {
+            throw new NotImplementedException();
+        }
+    }
     #endregion
     // Update is called once per frame
     void Update()
     {
+
         timer += Time.deltaTime;
         //按每个值100点计算，饥饿值每秒掉0.5，水分掉0.8，当水分或饥饿值不足时每秒掉3血
         if (timer >= 1.0f)
@@ -215,4 +229,8 @@ public class PlayerState : MonoBehaviour
         return pos;
     }
 
+    public void Move(Vector3 dir)
+    {
+        throw new NotImplementedException();
+    }
 }
